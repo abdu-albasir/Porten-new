@@ -9,6 +9,17 @@ li {
     background-color: transparent; 
 }
 
+.Link {
+    list-style-type: none;
+    text-align: center;
+    padding: 20px;
+    height: 100%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent; 
+}
+
 .selected-bg {
     background-color: #1f1f1f;
     height: 100%; 

@@ -3,6 +3,7 @@ import Logo from '../../shared/UI/Logo/Logo';
 import "./header.css";
 import cart from '../../shared/icons/bx_bx-cart.svg';
 import search from '../../shared/icons/gridicons_search.svg';
+import { Link } from 'react-router-dom';
 
 function Header() {
   return (
@@ -11,7 +12,7 @@ function Header() {
         <Logo />
         <div className='nav-text nav-container'>
           <div className='selected-bg'>
-              <li className='PT-sans selected-color'>ПОНРАВИЛОСЬ</li>
+              <Link to="/SecondPage" className='PT-sans Link selected-color'>ПОНРАВИЛОСЬ</Link> 
           </div>
           <ul>
             <li className='PT-sans func-text'>ЛИЧНЫЙ КАБИНЕТ</li>
