@@ -2,7 +2,7 @@ import React from 'react';
 import eva_phone from '../../shared/icons/eva_phone.png';
 import logIn from '../../shared/icons/ic_sharp-log-in.svg';
 import "./top-line.css";
-import "../../app/Fonts/typograhy.css";
+import "../../app/Fonts/type-off.css";
 
 function Topline() {
   return (

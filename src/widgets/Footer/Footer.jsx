@@ -1,5 +1,5 @@
 import React from 'react';
-import "../../app/Fonts/typograhy.css";
+import "../../app/Fonts/type-off.css";
 import PrimaryButton from '../../shared/UI/Button/PrimaryButton';
 import "./Footer.css";
 

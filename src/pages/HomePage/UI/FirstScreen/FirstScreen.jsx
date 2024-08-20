@@ -1,7 +1,7 @@
 import React from 'react'
 import "./FirstScreen.css"
 import Logo from './../../../../shared/UI/Logo/Logo';
-import "../../../../app/Fonts/typograhy.css"
+import "../../../../app/Fonts/type-off.css"
 
 
 function FirstScreen() {

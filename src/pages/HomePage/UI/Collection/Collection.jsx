@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Collection.css"
-import "../../../../app/Fonts/typograhy.css"
+import "../../../../app/Fonts/type-off.css"
 import Button from '../../../../shared/UI/Button/Button'
 
 function Collection() {

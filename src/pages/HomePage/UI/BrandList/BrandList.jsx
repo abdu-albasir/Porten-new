@@ -1,7 +1,7 @@
 import React from 'react'
 import newBrand from "../../../../entities/UI/brand-img.png"
 import "../NewItems/NewItems.css"
-import "../../../../app/Fonts/typograhy.css"
+import "../../../../app/Fonts/type-off.css"
 import "./BrandList.css"
 
 function brandList() {

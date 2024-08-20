@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom'; // Импортируйте Link
-import "../../../app/Fonts/typograhy.css";  
+import "../../../app/Fonts/type-off.css";  
 import "./Logo.css";
 
 function Logo() {
